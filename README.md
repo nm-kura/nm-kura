@@ -1,32 +1,46 @@
-👋 Hallo! Ich bin [Kura], ein engagierter Entwickler mit Fokus auf **serverseitige Logik und Frontend-Design**. Ich bin aktiv auf der Suche nach spannenden **Jobangeboten** und Kollaborationen im Bereich Backend- und Bot-Entwicklung.
+👋 Hi, I'm Kura
+Owner & Lead Developer @ NextModz-Studios
+
+Specialized in FiveM Development with a focus on creating robust, scalable server solutions.
 
 ---
 
-## 🛠️ Meine Kernkompetenzen
-
-| Technologie | Fokus / Erfahrung |
-| :--- | :--- |
-| **Java** | Minecraft Plugin Entwicklung (Spigot/Paper), Allgemeine Backend-Anwendungen. |
-| **discord.js** | Entwicklung robuster, skalierbarer Discord Bots (z.B. Moderation, Utility). |
-| **HTML/CSS** | Saubere, responsive Web-Präsenzen und UI-Elemente. |
-| **Lua** | Aktuelles Lerngebiet, mit besonderem Interesse für die **FiveM-Skripting-Umgebung**. |
-
----
-
-## 🚀 Projekt-Highlights
-
-* **FiveM Resource:** [Link zu deinem besten FiveM Script] – *Kurze Beschreibung, z.B. Ein komplexes Inventarsystem implementiert in Lua.*
-* **Discord Bot:** [Link zum Bot Repo] – *Kurze Beschreibung, z.B. Ein Multi-Server-Utility-Bot mit persistenter Datenbankanbindung.*
-* **Web-Projekt:** [Link zum Web Repo] – *Kurze Beschreibung, z.B. Responsive Landingpage oder Admin-Dashboard.*
+🛠️ Tech Stack
+!Lua
+!JavaScript
+!Java
+!HTML5
+!CSS3
+!discord.js
 
 ---
 
-## 💼 Job-Interessen
+🚀 Current Project
+NextGarage
+A fully Cutsom Build FiveM Garage System
 
-Ich bin offen für **Remote-Positionen** oder Gelegenheiten, bei denen ich meine Fähigkeiten in **Java** (Backend/Plugins) und **discord.js** voll einbringen kann. Besonders reizvoll finde ich die Schnittstelle zwischen **FiveM-Development und modernen Web-Technologien.**
+Key Features:
+Easy Setup
+Performance-optimized
+Job Garages
+Developer-friendly
 
 ---
 
-## 📚 Aktuelles Lernen
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nm-kura&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-* Vertiefung der **Lua-Syntax** und fortgeschrittene **FiveM API**-Nutzung.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nm-kura&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+🤝 NextModz-Studios
+Building innovative FiveM solutions with cutting-edge technology and professional support.
+
+---
+
+<div align="center">
+
+Open for collaboration | Professional inquiries welcome
+
+</div>
